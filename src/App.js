@@ -8,6 +8,7 @@ function App() {
 
       <button ClassName="span-tow">AC</button>
       <button>DEL</button>
+      <button>*</button>
       <button>/</button>
     </div>
 
